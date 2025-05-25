@@ -1,15 +1,291 @@
 {
   "active": [
     {
-      "code": "CARNANEVOA25",
+      "code": "IFLOOKSCOULDCHILL",
       "rewards": [
-        "300k Bloodpoints",
-        "3 Rift Levels",
-        "Carnanevoa-themed Badge",
-        "A Banner"
+        "Frosty Eye cosmetics"
       ]
     }
   ],
-  "general": [],
-  "expired": []
+  "general": [
+    {
+      "code": "AFLAGG",
+      "rewards": [
+        "Agender Pride Flag Charm"
+      ]
+    },
+    {
+      "code": "AFLAGS",
+      "rewards": [
+        "Asexual Pride Flag Charm"
+      ]
+    },
+    {
+      "code": "BDG2S",
+      "rewards": [
+        "Two-Spirit Badge"
+      ]
+    },
+    {
+      "code": "BDGAG",
+      "rewards": [
+        "Agender Badge"
+      ]
+    },
+    {
+      "code": "BDGAR",
+      "rewards": [
+        "Aromantic Badge"
+      ]
+    },
+    {
+      "code": "BDGAS",
+      "rewards": [
+        "Asexual Badge"
+      ]
+    },
+    {
+      "code": "BDGB",
+      "rewards": [
+        "Bisexual Badge"
+      ]
+    },
+    {
+      "code": "BDGDM",
+      "rewards": [
+        "Demisexual Badge"
+      ]
+    },
+    {
+      "code": "BDGGF",
+      "rewards": [
+        "Genderfluid Badge"
+      ]
+    },
+    {
+      "code": "BDGGQ",
+      "rewards": [
+        "Genderqueer Badge"
+      ]
+    },
+    {
+      "code": "BDGIS",
+      "rewards": [
+        "Intersex Badge"
+      ]
+    },
+    {
+      "code": "BDGL",
+      "rewards": [
+        "Lesbian Badge"
+      ]
+    },
+    {
+      "code": "BDGM",
+      "rewards": [
+        "Men Loving Men Badge"
+      ]
+    },
+    {
+      "code": "BDGNB",
+      "rewards": [
+        "Non-Binary Badge"
+      ]
+    },
+    {
+      "code": "BDGP",
+      "rewards": [
+        "Pansexual Badge"
+      ]
+    },
+    {
+      "code": "BDGPA",
+      "rewards": [
+        "Polyamory Badge"
+      ]
+    },
+    {
+      "code": "BDGPRG",
+      "rewards": [
+        "Progress Pride Badge"
+      ]
+    },
+    {
+      "code": "BDGPRIDE",
+      "rewards": [
+        "Pride Badge"
+      ]
+    },
+    {
+      "code": "BDGT",
+      "rewards": [
+        "Trans Badge"
+      ]
+    },
+    {
+      "code": "CAWCAW",
+      "rewards": [
+        "Feathers of Pride Charm"
+      ]
+    },
+    {
+      "code": "FLAGB",
+      "rewards": [
+        "Bisexual Pride Flag Charm"
+      ]
+    },
+    {
+      "code": "FLAGL",
+      "rewards": [
+        "WLW Flag Charm"
+      ]
+    },
+    {
+      "code": "FLAGP",
+      "rewards": [
+        "Pansexual Pride Flag Charm"
+      ]
+    },
+    {
+      "code": "FLAGT",
+      "rewards": [
+        "Trans Pride Flag Charm"
+      ]
+    },
+    {
+      "code": "GFLAGF",
+      "rewards": [
+        "Genderfluid Pride Flag Charm"
+      ]
+    },
+    {
+      "code": "GFLAGQ",
+      "rewards": [
+        "Genderqueer Pride Flag Charm"
+      ]
+    },
+    {
+      "code": "ISFLAG",
+      "rewards": [
+        "Intersex Pride Flag Charm"
+      ]
+    },
+    {
+      "code": "LETSROLL",
+      "rewards": [
+        "Dwight Charm"
+      ]
+    },
+    {
+      "code": "MFLAG",
+      "rewards": [
+        "MLM Flag Charm"
+      ]
+    },
+    {
+      "code": "NBFLAG",
+      "rewards": [
+        "Nonbinary Pride Flag Charm"
+      ]
+    },
+    {
+      "code": "PARTYHATS24",
+      "rewards": [
+        "4th and 5th year Anniversary crowns"
+      ]
+    },
+    {
+      "code": "PRIDE",
+      "rewards": [
+        "Pride Charm"
+      ]
+    },
+    {
+      "code": "PRIDE2022",
+      "rewards": [
+        "Pride Charms (Original and updated versions)"
+      ]
+    },
+    {
+      "code": "REDDIT1MIL",
+      "rewards": [
+        "8-bit Crow Profile Badge"
+      ]
+    },
+    {
+      "code": "WARRIORPUPPERS",
+      "rewards": [
+        "Warrior Puppers Charm"
+      ]
+    }
+  ],
+  "expired": [
+    {
+      "code": "BLOODPINT",
+      "rewards": [
+        "500,000 - Bloodpoints"
+      ]
+    },
+    {
+      "code": "CARNANEVOA25",
+      "rewards": [
+        "300,000 Bloodpoints",
+        "30x Rift Fragments",
+        "Confetti Mask Badge",
+        "Hanging Umbrellas Banner"
+      ]
+    },
+    {
+      "code": "DBDDAY2024",
+      "rewards": [
+        "300,000 - Bloodpoints",
+        "500 - Iridescent Shards"
+      ]
+    },
+    {
+      "code": "DBDDMAYOKE",
+      "rewards": [
+        "Silk Omamori - Charm",
+        "DBD Day Celebration Coin - Charm"
+      ]
+    },
+    {
+      "code": "HAPPYSNAKEYEAR2025",
+      "rewards": [
+        "666,888 - Bloodpoints",
+        "888 - Iridescent Shards",
+        "Snake Head - Badge"
+      ]
+    },
+    {
+      "code": "HOOKEDONU",
+      "rewards": [
+        "Hooked On U badge"
+      ]
+    },
+    {
+      "code": "LUCKYBP2025",
+      "rewards": [
+        "168,888 - Bloodpoints"
+      ]
+    },
+    {
+      "code": "MAKEITREINDEER",
+      "rewards": [
+        "250,000 - Bloodpoints"
+      ]
+    },
+    {
+      "code": "NOVASCASAS",
+      "rewards": [
+        "250,000 - Bloodpoints"
+      ]
+    },
+    {
+      "code": "ROLLD20",
+      "rewards": [
+        "D20 - Charm"
+      ]
+    }
+  ]
 }
