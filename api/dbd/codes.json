@@ -1,5 +1,5 @@
 {
-  "codes": [
+  "active": [
     {
       "code": "CARNANEVOA25",
       "rewards": [
@@ -9,5 +9,7 @@
         "A Banner"
       ]
     }
-  ]
+  ],
+  "general": [],
+  "expired": []
 }
