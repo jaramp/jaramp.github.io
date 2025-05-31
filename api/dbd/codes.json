@@ -1,9 +1,11 @@
 {
   "active": [
     {
-      "code": "IFLOOKSCOULDCHILL",
+      "code": "BPF2019",
       "rewards": [
-        "Frosty Eye cosmetics"
+        "Blood Party Friday T-shirts - 4 Items",
+        "For Claudette Morel, Nea Karlsson,",
+        "Ace Visconti, and Adam Francis"
       ]
     }
   ],
@@ -165,6 +167,12 @@
       ]
     },
     {
+      "code": "IFLOOKSCOULDCHILL",
+      "rewards": [
+        "Frosty Eyes - Cosmetics (21 items)"
+      ]
+    },
+    {
       "code": "ISFLAG",
       "rewards": [
         "Intersex Pride Flag Charm"
@@ -191,7 +199,8 @@
     {
       "code": "PARTYHATS24",
       "rewards": [
-        "4th and 5th year Anniversary crowns"
+        "4th Anniversary - Crowns (32 items)",
+        "5th Anniversary - Crowns (34 items)"
       ]
     },
     {
