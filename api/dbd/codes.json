@@ -23,6 +23,12 @@
       ]
     },
     {
+      "code": "AROMFLAG",
+      "rewards": [
+        "Aromantic flag charm"
+      ]
+    },
+    {
       "code": "BDG2S",
       "rewards": [
         "Two-Spirit Badge"
@@ -131,6 +137,12 @@
       ]
     },
     {
+      "code": "DEMISFLAG",
+      "rewards": [
+        "Demisexual flag charm"
+      ]
+    },
+    {
       "code": "FLAGB",
       "rewards": [
         "Bisexual Pride Flag Charm"
@@ -179,6 +191,12 @@
       ]
     },
     {
+      "code": "KINDRD",
+      "rewards": [
+        "Glance of Pride charm"
+      ]
+    },
+    {
       "code": "LETSROLL",
       "rewards": [
         "Dwight Charm"
@@ -197,10 +215,9 @@
       ]
     },
     {
-      "code": "PARTYHATS24",
+      "code": "POLYFLAG",
       "rewards": [
-        "4th Anniversary - Crowns (32 items)",
-        "5th Anniversary - Crowns (34 items)"
+        "Polyamory flag charm"
       ]
     },
     {
@@ -222,6 +239,12 @@
       ]
     },
     {
+      "code": "TWOSFLAG",
+      "rewards": [
+        "Two"
+      ]
+    },
+    {
       "code": "WARRIORPUPPERS",
       "rewards": [
         "Warrior Puppers Charm"
@@ -230,9 +253,144 @@
   ],
   "expired": [
     {
+      "code": "59TH39",
+      "rewards": [
+        "59,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "78SNOXXG",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "100KSLAY",
+      "rewards": [
+        "100k Bloodpoints"
+      ]
+    },
+    {
+      "code": "ALANWAKECHAPTER",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "ALIENWARE",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "AMD",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "ANNIVERSARYFRAGMENTS",
+      "rewards": [
+        "Ten Rift Fragments"
+      ]
+    },
+    {
+      "code": "ARRAIALDBD24",
+      "rewards": [
+        "300,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "AUSOME",
+      "rewards": [
+        "Anniversary cosmetics for David",
+        "The Wraith"
+      ]
+    },
+    {
+      "code": "BASTILLE23",
+      "rewards": [
+        "147,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "BETTERTHANONE",
+      "rewards": [
+        "Anniversary cosmetics for David",
+        "The Wraith"
+      ]
+    },
+    {
+      "code": "BILIBILI300K",
+      "rewards": [
+        "300,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "BLOODBANK",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "BLOODFEST",
+      "rewards": [
+        "Blood Droplet Badge"
+      ]
+    },
+    {
       "code": "BLOODPINT",
       "rewards": [
         "500,000 - Bloodpoints"
+      ]
+    },
+    {
+      "code": "BLOODY BRILLIANT DECIPHERING",
+      "rewards": [
+        "10,084 Bloodpoints"
+      ]
+    },
+    {
+      "code": "BLOODYGREAT",
+      "rewards": [
+        "Blood Droplet Charm"
+      ]
+    },
+    {
+      "code": "BLUEBIRDBEEG",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "BOOP",
+      "rewards": [
+        "Meg's Boop the Snoot mask"
+      ]
+    },
+    {
+      "code": "BUBBLES",
+      "rewards": [
+        "Shark Charm"
+      ]
+    },
+    {
+      "code": "CAISHEN",
+      "rewards": [
+        "88,888 Bloodpoints"
+      ]
+    },
+    {
+      "code": "CAKEWALK",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "CARNANEVOA24",
+      "rewards": [
+        "240,000 Bloodpoints",
+        "24 Iri Shards"
       ]
     },
     {
@@ -245,6 +403,62 @@
       ]
     },
     {
+      "code": "CELEBRANDO",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "CHEGADAS",
+      "rewards": [
+        "150,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "CIPHERSALAD",
+      "rewards": [
+        "150,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "CN600K",
+      "rewards": [
+        "600,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "COLDSTARE",
+      "rewards": [
+        "Frosty Eyes cosmetics for The Deathslinger, Blight,",
+        "The Twins"
+      ]
+    },
+    {
+      "code": "DANKE",
+      "rewards": [
+        "200k Bloodpoints"
+      ]
+    },
+    {
+      "code": "DBD7",
+      "rewards": [
+        "400,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "DBDDAY39",
+      "rewards": [
+        "500,000 Bloodpoints",
+        "500 Iridescent Shards"
+      ]
+    },
+    {
+      "code": "DBDDAY2022",
+      "rewards": [
+        "Silk Omamori charm"
+      ]
+    },
+    {
       "code": "DBDDAY2024",
       "rewards": [
         "300,000 - Bloodpoints",
@@ -252,10 +466,217 @@
       ]
     },
     {
+      "code": "DBDDAYJP2021",
+      "rewards": [
+        "202,100 Bloodpoints"
+      ]
+    },
+    {
+      "code": "DBDDAYR5",
+      "rewards": [
+        "DBD Day Celebration Coin charm"
+      ]
+    },
+    {
       "code": "DBDDMAYOKE",
       "rewards": [
         "Silk Omamori - Charm",
         "DBD Day Celebration Coin - Charm"
+      ]
+    },
+    {
+      "code": "DBDTHEBOARDGAME",
+      "rewards": [
+        "200,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "DBDWEBSITE",
+      "rewards": [
+        "25,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "DECIPHERSTRIKE",
+      "rewards": [
+        "150,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "DIEHARDDIVA2022",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "DNDBD20",
+      "rewards": [
+        "D20 badge",
+        "Mimic Chest charm"
+      ]
+    },
+    {
+      "code": "DOUBLERAINBOW",
+      "rewards": [
+        "200,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "DRAGONGIFT",
+      "rewards": [
+        "Dragon Head badge",
+        "Red Gift banner"
+      ]
+    },
+    {
+      "code": "DROPBH",
+      "rewards": [
+        "Back Home Jonah pants (Switch"
+      ]
+    },
+    {
+      "code": "DROPBP",
+      "rewards": [
+        "Bloodpoints Banner (Switch"
+      ]
+    },
+    {
+      "code": "DROPFL",
+      "rewards": [
+        "Twitchy Flame Charm (Switch"
+      ]
+    },
+    {
+      "code": "DROPMED",
+      "rewards": [
+        "Twitchy Medkit Badge (Switch"
+      ]
+    },
+    {
+      "code": "DROPMH",
+      "rewards": [
+        "Meg Cutting"
+      ]
+    },
+    {
+      "code": "DROPMJ",
+      "rewards": [
+        "Meg In"
+      ]
+    },
+    {
+      "code": "DROPML",
+      "rewards": [
+        "Meg Avante"
+      ]
+    },
+    {
+      "code": "DROPUAT",
+      "rewards": [
+        "Unwanted Attention Jonah top (Switch"
+      ]
+    },
+    {
+      "code": "DROPWE",
+      "rewards": [
+        "Weary Eyes Jonah head (Switch"
+      ]
+    },
+    {
+      "code": "DWIGHTCROW",
+      "rewards": [
+        "Dwight Crow Charm"
+      ]
+    },
+    {
+      "code": "EASYASABC",
+      "rewards": [
+        "150,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "ELGATO",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "ENERGY",
+      "rewards": [
+        "25,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "FINN",
+      "rewards": [
+        "10,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "FORHONOR",
+      "rewards": [
+        "For Honor Charm"
+      ]
+    },
+    {
+      "code": "FRISKKUWURAWRXD2022",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "GAMSAHABNIDA",
+      "rewards": [
+        "200k Bloodpoints"
+      ]
+    },
+    {
+      "code": "GETTHATBAG",
+      "rewards": [
+        "Ten Rift Fragments"
+      ]
+    },
+    {
+      "code": "GETTHREADY",
+      "rewards": [
+        "Voxel Spirit Charm"
+      ]
+    },
+    {
+      "code": "GFUEL",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "GIGXLM3G",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "GOLDENBROS",
+      "rewards": [
+        "Anniversary cosmetics for David",
+        "The Wraith"
+      ]
+    },
+    {
+      "code": "GOLDENDRAGON",
+      "rewards": [
+        "Golden Dragon charm"
+      ]
+    },
+    {
+      "code": "HALLOWHOOPS",
+      "rewards": [
+        "1,031 Bloodpoints"
+      ]
+    },
+    {
+      "code": "HAPPYGOLDENWEEK2021",
+      "rewards": [
+        "30,000 Bloodpoints"
       ]
     },
     {
@@ -267,9 +688,188 @@
       ]
     },
     {
+      "code": "HELLOTHERE",
+      "rewards": [
+        "25,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "HISSANDHERS",
+      "rewards": [
+        "Greek Legends charms"
+      ]
+    },
+    {
+      "code": "HOHOHO",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "HOLIDAYSPECIAL",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "HONORARYCUSTODIAN",
+      "rewards": [
+        "Meet Your Maker Build",
+        "Protect tops"
+      ]
+    },
+    {
       "code": "HOOKEDONU",
       "rewards": [
         "Hooked On U badge"
+      ]
+    },
+    {
+      "code": "HRVFANCLUB",
+      "rewards": [
+        "Meet Your Maker Build",
+        "Protect tops"
+      ]
+    },
+    {
+      "code": "ICEYYOU",
+      "rewards": [
+        "Frosty Eyes cosmetics for The Artist",
+        "The Trickster"
+      ]
+    },
+    {
+      "code": "IGBPPARTY",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "INFULLBLOOM",
+      "rewards": [
+        "Gloomy Spring banner",
+        "Wilted Tulips badge"
+      ]
+    },
+    {
+      "code": "INSERTCOIN",
+      "rewards": [
+        "Arcade Machine Charm"
+      ]
+    },
+    {
+      "code": "INTERSECTIONALIYAY",
+      "rewards": [
+        "100k Bloodpoints"
+      ]
+    },
+    {
+      "code": "INTHISECONOMY",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "JAPAN300K",
+      "rewards": [
+        "300,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "KENPOUKINENBI2021",
+      "rewards": [
+        "40,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "KODOMONOHI2021",
+      "rewards": [
+        "60,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "KOINOBORI",
+      "rewards": [
+        "Carp Windsocks badge"
+      ]
+    },
+    {
+      "code": "KONTROLFREEK",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "LAFOGATA",
+      "rewards": [
+        "300,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "LANTERNFESTIVAL",
+      "rewards": [
+        "15 Rift Fragments"
+      ]
+    },
+    {
+      "code": "LARAINTHEFOG",
+      "rewards": [
+        "100,00 Bloodpoints"
+      ]
+    },
+    {
+      "code": "LEGENDIRI",
+      "rewards": [
+        "100 Iridescent Shards"
+      ]
+    },
+    {
+      "code": "LIGHTSCAMERABP",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "LIGHTSOUT",
+      "rewards": [
+        "150,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "LIVEORDIE",
+      "rewards": [
+        "Saw Spiral charm"
+      ]
+    },
+    {
+      "code": "LOVEBIRD",
+      "rewards": [
+        "Raven heart charm"
+      ]
+    },
+    {
+      "code": "LOVEISLOVE",
+      "rewards": [
+        "200,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "LUCKY",
+      "rewards": [
+        "Lunar New Year cosmetics for Jane",
+        "The Hillbilly"
+      ]
+    },
+    {
+      "code": "LUCKYBP2023",
+      "rewards": [
+        "168,888 Bloodpoints"
+      ]
+    },
+    {
+      "code": "LUCKYBP2024",
+      "rewards": [
+        "666, 888 Bloodpoints"
       ]
     },
     {
@@ -279,9 +879,86 @@
       ]
     },
     {
+      "code": "LUCKYMONEY",
+      "rewards": [
+        "16,888 Bloodpoints"
+      ]
+    },
+    {
+      "code": "LUNAR",
+      "rewards": [
+        "Lunar New Year cosmetics for David, Nea,",
+        "The Trapper"
+      ]
+    },
+    {
       "code": "MAKEITREINDEER",
       "rewards": [
         "250,000 - Bloodpoints"
+      ]
+    },
+    {
+      "code": "MAKEMECRYO",
+      "rewards": [
+        "Frosty Eyes cosmetics for the Plague",
+        "The Oni"
+      ]
+    },
+    {
+      "code": "MASTERMAKER",
+      "rewards": [
+        "Meet Your Maker Build",
+        "Protect top for Vittorio"
+      ]
+    },
+    {
+      "code": "METMYMAKER",
+      "rewards": [
+        "Meet Your Maker Build",
+        "Protect tops"
+      ]
+    },
+    {
+      "code": "MIDORINOHI2021",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "MILADYISSEVENFOOTTWO",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "MORICHRISTMAS",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "NICE",
+      "rewards": [
+        "69 Bloodpoints"
+      ]
+    },
+    {
+      "code": "NOTATRAP",
+      "rewards": [
+        "Meet Your Maker Build",
+        "Protect tops"
+      ]
+    },
+    {
+      "code": "NOTATRICK",
+      "rewards": [
+        "100,000 Bloodpoints Offer"
+      ]
+    },
+    {
+      "code": "NOVAS",
+      "rewards": [
+        "100,000 Bloodpoints"
       ]
     },
     {
@@ -291,9 +968,309 @@
       ]
     },
     {
+      "code": "OCANADA",
+      "rewards": [
+        "Canada Day Maple Leaf charm"
+      ]
+    },
+    {
+      "code": "OINKYOUNEEDISLOVE",
+      "rewards": [
+        "200,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "ONEMILLIONSOULS",
+      "rewards": [
+        "Twitter Charm"
+      ]
+    },
+    {
+      "code": "PAPERDRAGON",
+      "rewards": [
+        "Lunar Dragon charm"
+      ]
+    },
+    {
+      "code": "PARTYHATS",
+      "rewards": [
+        "Fifth anniversary crown for all original characters available at that time"
+      ]
+    },
+    {
+      "code": "PARTYHATS24",
+      "rewards": [
+        "4th",
+        "5th anniversary crowns"
+      ]
+    },
+    {
+      "code": "PARTYTRIX",
+      "rewards": [
+        "200 Iridescent Shards"
+      ]
+    },
+    {
+      "code": "PIECEOFCAKE",
+      "rewards": [
+        "Naughty Bear Pinata",
+        "Five Year Candles charms"
+      ]
+    },
+    {
+      "code": "PROUDDAVID",
+      "rewards": [
+        "200 Iridescent Shards"
+      ]
+    },
+    {
+      "code": "PROUDSUSIE",
+      "rewards": [
+        "100 Iridescent Shards"
+      ]
+    },
+    {
+      "code": "RABBIT",
+      "rewards": [
+        "Lunar New Year cosmetics for Dwight",
+        "The Spirit"
+      ]
+    },
+    {
+      "code": "RAINBOWRIFT",
+      "rewards": [
+        "Ten Rift Fragments"
+      ]
+    },
+    {
+      "code": "RANKROULETTE",
+      "rewards": [
+        "250,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "REVEALED",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "RIFT",
+      "rewards": [
+        "25,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "RIVALSJP",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "RIVALSKR",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "RIVALSTH",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
       "code": "ROLLD20",
       "rewards": [
         "D20 - Charm"
+      ]
+    },
+    {
+      "code": "RSELF",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "SCARYGOOD",
+      "rewards": [
+        "Trick or Treat (10,000 Bloodpoints)"
+      ]
+    },
+    {
+      "code": "SCREAMSTREAM",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "SEASONSBLEEDINGS",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "SHARKY",
+      "rewards": [
+        "10,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "SPENDINGSPREE",
+      "rewards": [
+        "200,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "SPLENDID",
+      "rewards": [
+        "500,000 Bloodpoints",
+        "30 Rift Fragments"
+      ]
+    },
+    {
+      "code": "STEELSERIES",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "STEELSERIES2024",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "STEELSERIESTR",
+      "rewards": [
+        "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "THANKU24",
+      "rewards": [
+        "15 Rift Fragments"
+      ]
+    },
+    {
+      "code": "THANKYOU",
+      "rewards": [
+        "150,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "THANKYOUFOR60M",
+      "rewards": [
+        "one million Bloodpoints",
+        "6,000 Iridescent Shards"
+      ]
+    },
+    {
+      "code": "THEDARKLORD",
+      "rewards": [
+        "Wax Candle badge",
+        "Dusty Secrets banner"
+      ]
+    },
+    {
+      "code": "THISISACODE",
+      "rewards": [
+        "25,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "THREEWITCHES",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "TICKED",
+      "rewards": [
+        "125,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "TIKTOK",
+      "rewards": [
+        "125, 000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "TOOTHFACE",
+      "rewards": [
+        "10,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "TRAPPER7",
+      "rewards": [
+        "Voxel Trapper charm"
+      ]
+    },
+    {
+      "code": "TRIXORTREATS",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "TWOSDAY",
+      "rewards": [
+        "222,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "UMINOHI2024",
+      "rewards": [
+        "300,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "UNDYING",
+      "rewards": [
+        "Floral Coffin charm"
+      ]
+    },
+    {
+      "code": "UNSTABLE",
+      "rewards": [
+        "25,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "VK130UP",
+      "rewards": [
+        "130,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "VOID",
+      "rewards": [
+        "25,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "WHATISAMAN",
+      "rewards": [
+        "129,415 Bloodpoints"
+      ]
+    },
+    {
+      "code": "WINNERWINNER",
+      "rewards": [
+        "PUBG Frying Pan Charm"
+      ]
+    },
+    {
+      "code": "WITCHPLEASE",
+      "rewards": [
+        "Trick or Treat (one Bloodpoint)"
+      ]
+    },
+    {
+      "code": "YOUFOUNDME",
+      "rewards": [
+        "25,000 Bloodpoints"
       ]
     }
   ]
