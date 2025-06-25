@@ -1,12 +1,36 @@
 {
   "active": [
     {
+      "code": "BDGDR",
+      "rewards": [
+        "Demiromantic - Badge"
+      ]
+    },
+    {
+      "code": "BDGPS",
+      "rewards": [
+        "Polysexual - Badge"
+      ]
+    },
+    {
       "code": "BPF2019",
       "rewards": [
         "Blood Party Friday T-shirt for Claudette Morel",
         "Blood Party Friday T-shirt for Nea Karlsson",
         "Blood Party Friday T-shirt for Ace Visconti",
         "Blood Party Friday T-shirt for Adam Francis"
+      ]
+    },
+    {
+      "code": "DEMRFLAG",
+      "rewards": [
+        "Demiromantic Flag - Charm"
+      ]
+    },
+    {
+      "code": "POLSFLAG",
+      "rewards": [
+        "Polysexual Flag - Charm"
       ]
     }
   ],
