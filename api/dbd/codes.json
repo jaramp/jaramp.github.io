@@ -13,15 +13,6 @@
       ]
     },
     {
-      "code": "BPF2019",
-      "rewards": [
-        "Blood Party Friday T-shirt for Claudette Morel",
-        "Blood Party Friday T-shirt for Nea Karlsson",
-        "Blood Party Friday T-shirt for Ace Visconti",
-        "Blood Party Friday T-shirt for Adam Francis"
-      ]
-    },
-    {
       "code": "DEMRFLAG",
       "rewards": [
         "Demiromantic Flag - Charm"
@@ -391,6 +382,12 @@
       "code": "BOOP",
       "rewards": [
         "Meg's Boop the Snoot mask"
+      ]
+    },
+    {
+      "code": "BPF2019",
+      "rewards": [
+        "Four Blood Party Friday survivor t"
       ]
     },
     {
