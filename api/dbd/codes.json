@@ -19,9 +19,27 @@
       ]
     },
     {
+      "code": "ESCAPEWITHPRIDE",
+      "rewards": [
+        "200 - Iridescent Shards"
+      ]
+    },
+    {
+      "code": "LOVEISUNHOOKABLE",
+      "rewards": [
+        "2,50,000 - Bloodpoints"
+      ]
+    },
+    {
       "code": "POLSFLAG",
       "rewards": [
         "Polysexual Flag - Charm"
+      ]
+    },
+    {
+      "code": "THEENTITYLOVESALL",
+      "rewards": [
+        "1,50,000 - Bloodpoints"
       ]
     }
   ],
