@@ -3,43 +3,25 @@
     {
       "code": "BDGDR",
       "rewards": [
-        "Demiromantic - Badge"
-      ]
-    },
-    {
-      "code": "BDGPS",
-      "rewards": [
-        "Polysexual - Badge"
-      ]
-    },
-    {
-      "code": "DEMRFLAG",
-      "rewards": [
-        "Demiromantic Flag - Charm"
-      ]
-    },
-    {
-      "code": "ESCAPEWITHPRIDE",
-      "rewards": [
-        "200 - Iridescent Shards"
-      ]
-    },
-    {
-      "code": "LOVEISUNHOOKABLE",
-      "rewards": [
-        "2,50,000 - Bloodpoints"
-      ]
-    },
-    {
-      "code": "POLSFLAG",
-      "rewards": [
-        "Polysexual Flag - Charm"
+        "Demiromantic Badge"
       ]
     },
     {
       "code": "THEENTITYLOVESALL",
       "rewards": [
-        "1,50,000 - Bloodpoints"
+        "150,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "ESCAPEWITHPRIDE",
+      "rewards": [
+        "200 Iridescent Shards"
+      ]
+    },
+    {
+      "code": "LOVEISUNHOOKABLE",
+      "rewards": [
+        "250,000 - Bloodpoints"
       ]
     }
   ],
@@ -159,6 +141,12 @@
       ]
     },
     {
+      "code": "BDGPS",
+      "rewards": [
+        "Polysexual Badge"
+      ]
+    },
+    {
       "code": "BDGT",
       "rewards": [
         "Trans badge"
@@ -174,6 +162,12 @@
       "code": "DEMISFLAG",
       "rewards": [
         "Demisexual flag charm"
+      ]
+    },
+    {
+      "code": "DEMRFLAG",
+      "rewards": [
+        "Demiromantic Flag Charm"
       ]
     },
     {
@@ -246,6 +240,12 @@
       "code": "NBFLAG",
       "rewards": [
         "Nonbinary Pride Flag charm"
+      ]
+    },
+    {
+      "code": "POLSFLAG",
+      "rewards": [
+        "Polysexual Flag Charm"
       ]
     },
     {
