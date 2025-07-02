@@ -1,12 +1,6 @@
 {
   "active": [
     {
-      "code": "BDGDR",
-      "rewards": [
-        "Demiromantic Badge"
-      ]
-    },
-    {
       "code": "THEENTITYLOVESALL",
       "rewards": [
         "150,000 Bloodpoints"
@@ -78,6 +72,12 @@
       "code": "BDGDM",
       "rewards": [
         "Demisexual badge"
+      ]
+    },
+    {
+      "code": "BDGDR",
+      "rewards": [
+        "Demiromantic Badge"
       ]
     },
     {
