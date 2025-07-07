@@ -1,24 +1,5 @@
 {
-  "active": [
-    {
-      "code": "THEENTITYLOVESALL",
-      "rewards": [
-        "150,000 Bloodpoints"
-      ]
-    },
-    {
-      "code": "ESCAPEWITHPRIDE",
-      "rewards": [
-        "200 Iridescent Shards"
-      ]
-    },
-    {
-      "code": "LOVEISUNHOOKABLE",
-      "rewards": [
-        "250,000 - Bloodpoints"
-      ]
-    }
-  ],
+  "active": [],
   "general": [
     {
       "code": "AFLAGG",
@@ -654,6 +635,12 @@
       ]
     },
     {
+      "code": "ESCAPEWITHPRIDE",
+      "rewards": [
+        "200x Iridescent Shards (NEW)"
+      ]
+    },
+    {
       "code": "FINN",
       "rewards": [
         "10,000 Bloodpoints"
@@ -904,6 +891,12 @@
       "code": "LOVEISLOVE",
       "rewards": [
         "200,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "LOVEISUNHOOKABLE",
+      "rewards": [
+        "250,000 Bloodpoints (NEW)"
       ]
     },
     {
@@ -1223,6 +1216,12 @@
       "rewards": [
         "Wax Candle badge",
         "Dusty Secrets banner"
+      ]
+    },
+    {
+      "code": "THEENTITYLOVESALL",
+      "rewards": [
+        "150,000 Bloodpoints (NEW)"
       ]
     },
     {
