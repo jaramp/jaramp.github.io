@@ -1,5 +1,12 @@
 {
-  "active": [],
+  "active": [
+    {
+      "code": "DISCORD500",
+      "rewards": [
+        "500,000 Bloodpoints"
+      ]
+    }
+  ],
   "general": [
     {
       "code": "AFLAGG",
