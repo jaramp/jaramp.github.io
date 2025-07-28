@@ -13,6 +13,12 @@
         "La Fogata: Forest Banner",
         "300,000 Bloodpoints"
       ]
+    },
+    {
+      "code": "NIGHTSHIFT",
+      "rewards": [
+        "Horror Attraction Banner"
+      ]
     }
   ],
   "general": [
