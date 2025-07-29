@@ -7,14 +7,6 @@
       ]
     },
     {
-      "code": "LAFOGATA2025",
-      "rewards": [
-        "La Fogata: Alpaca Badge",
-        "La Fogata: Forest Banner",
-        "300,000 Bloodpoints"
-      ]
-    },
-    {
       "code": "NIGHTSHIFT",
       "rewards": [
         "Horror Attraction Banner"
@@ -864,6 +856,12 @@
       "code": "LAFOGATA",
       "rewards": [
         "300,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "LAFOGATA2025",
+      "rewards": [
+        "La Fogata Badge and Banner and 300,000 Bloodpoints"
       ]
     },
     {
