@@ -1,12 +1,6 @@
 {
   "active": [
     {
-      "code": "DISCORD500",
-      "rewards": [
-        "500,000 Bloodpoints"
-      ]
-    },
-    {
       "code": "NIGHTSHIFT",
       "rewards": [
         "Horror Attraction Banner"
@@ -162,6 +156,12 @@
       "code": "DEMRFLAG",
       "rewards": [
         "Demiromantic Flag Charm"
+      ]
+    },
+    {
+      "code": "DISCORD500",
+      "rewards": [
+        "500,000 Bloodpoints"
       ]
     },
     {
