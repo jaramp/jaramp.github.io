@@ -1,12 +1,6 @@
 {
   "active": [
     {
-      "code": "LARACROFTINTHEFOG",
-      "rewards": [
-        "100,000 Bloodpoints"
-      ]
-    },
-    {
       "code": "NIGHTSHIFT",
       "rewards": [
         "Horror Attraction Banner"
@@ -880,6 +874,12 @@
       "code": "LANTERNFESTIVAL",
       "rewards": [
         "15 Rift Fragments"
+      ]
+    },
+    {
+      "code": "LARACROFTINTHEFOG",
+      "rewards": [
+        "100,000 Bloodpoints"
       ]
     },
     {
