@@ -5,12 +5,6 @@
       "rewards": [
         "Horror Attraction Banner"
       ]
-    },
-    {
-      "code": "THRIVETOGETHER",
-      "rewards": [
-        "250,000 Bloodpoints"
-      ]
     }
   ],
   "general": [
@@ -162,12 +156,6 @@
       "code": "DEMRFLAG",
       "rewards": [
         "Demiromantic Flag Charm"
-      ]
-    },
-    {
-      "code": "DISCORD500",
-      "rewards": [
-        "500,000 Bloodpoints"
       ]
     },
     {
@@ -405,7 +393,9 @@
     {
       "code": "BPF2019",
       "rewards": [
-        "Four Blood Party Friday survivor t"
+        "Blood Party Friday T-shirts 4 Items",
+        "For Claudette Morel, Nea Karlsson,",
+        "Ace Visconti, and Adam Francis"
       ]
     },
     {
@@ -553,6 +543,12 @@
       "code": "DIEHARDDIVA2022",
       "rewards": [
         "50,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "DISCORD500",
+      "rewards": [
+        "500,000 Bloodpoints"
       ]
     },
     {
@@ -1265,6 +1261,12 @@
       "code": "THREEWITCHES",
       "rewards": [
         "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "THRIVETOGETHER",
+      "rewards": [
+        "250,000 Bloodpoints"
       ]
     },
     {
