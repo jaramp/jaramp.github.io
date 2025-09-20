@@ -1,12 +1,6 @@
 {
   "active": [
     {
-      "code": "NIGHTSHIFT",
-      "rewards": [
-        "Horror Attraction Banner"
-      ]
-    },
-    {
       "code": "THEGRIMOIRE",
       "rewards": [
         "1 million Bloodpoints (NEW)"
@@ -234,6 +228,12 @@
       "code": "NBFLAG",
       "rewards": [
         "Nonbinary Pride Flag charm"
+      ]
+    },
+    {
+      "code": "NIGHTSHIFT",
+      "rewards": [
+        "Horror Attraction Banner"
       ]
     },
     {
