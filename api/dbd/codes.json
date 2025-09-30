@@ -11,12 +11,6 @@
       "rewards": [
         "150,000 Bloodpoints"
       ]
-    },
-    {
-      "code": "THEGRIMOIRE",
-      "rewards": [
-        "1 million Bloodpoints"
-      ]
     }
   ],
   "general": [
@@ -1267,6 +1261,12 @@
       "code": "THEENTITYLOVESALL",
       "rewards": [
         "150,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "THEGRIMOIRE",
+      "rewards": [
+        "1 million Bloodpoints"
       ]
     },
     {
