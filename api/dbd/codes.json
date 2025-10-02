@@ -1,12 +1,6 @@
 {
   "active": [
     {
-      "code": "DBDBLUESKYJP",
-      "rewards": [
-        "150,000 Bloodpoints"
-      ]
-    },
-    {
       "code": "DBDBLUESKYJPNEW",
       "rewards": [
         "150,000 Bloodpoints"
@@ -486,6 +480,12 @@
       "code": "DBD7",
       "rewards": [
         "400,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "DBDBLUESKYJP",
+      "rewards": [
+        "250,000 Bloodpoints"
       ]
     },
     {
