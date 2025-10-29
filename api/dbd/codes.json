@@ -1,9 +1,21 @@
 {
   "active": [
     {
+      "code": "1MILLIONCROWS",
+      "rewards": [
+        "Instacrow Charm"
+      ]
+    },
+    {
       "code": "GALAXIES",
       "rewards": [
         "Two Witches Banner"
+      ]
+    },
+    {
+      "code": "GALAXIESNEW",
+      "rewards": [
+        "Two Witches (Blue) Banner"
       ]
     }
   ],
