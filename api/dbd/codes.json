@@ -1,28 +1,10 @@
 {
   "active": [
     {
-      "code": "1MILLIONCROWS",
-      "rewards": [
-        "Instacrow Charm"
-      ]
-    },
-    {
       "code": "BOULETBROTHERS",
       "rewards": [
         "Boulet Brothers Surprise Charm",
         "Boulet Touch Banner"
-      ]
-    },
-    {
-      "code": "GALAXIES",
-      "rewards": [
-        "Two Witches Banner"
-      ]
-    },
-    {
-      "code": "HAUNTED",
-      "rewards": [
-        "Flash from the Grave Charm"
       ]
     }
   ],
@@ -299,6 +281,12 @@
     }
   ],
   "expired": [
+    {
+      "code": "1MILLIONCROWS",
+      "rewards": [
+        "Instacrow charm"
+      ]
+    },
     {
       "code": "59TH39",
       "rewards": [
@@ -705,6 +693,12 @@
       ]
     },
     {
+      "code": "GALAXIES",
+      "rewards": [
+        "Two Witches Blue Banner"
+      ]
+    },
+    {
       "code": "GAMSAHABNIDA",
       "rewards": [
         "200,000 Bloodpoints"
@@ -765,6 +759,12 @@
         "666,888 Bloodpoints",
         "888 Iridescent Shards",
         "Snake Head badge"
+      ]
+    },
+    {
+      "code": "HAUNTED",
+      "rewards": [
+        "From the Grave Charm"
       ]
     },
     {
