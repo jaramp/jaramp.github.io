@@ -306,6 +306,12 @@
       ]
     },
     {
+      "code": "100kSLAY",
+      "rewards": [
+        "100k Bloodpoints"
+      ]
+    },
+    {
       "code": "ALANWAKECHAPTER",
       "rewards": [
         "100,000 Bloodpoints"
@@ -434,6 +440,12 @@
       "rewards": [
         "240,000 Bloodpoints",
         "24 Iridescent Shards"
+      ]
+    },
+    {
+      "code": "CARNANEVOA24 ",
+      "rewards": [
+        "240k Bloodpoints, 24 Rift Fragments"
       ]
     },
     {
@@ -603,9 +615,27 @@
       ]
     },
     {
+      "code": "DROPCH",
+      "rewards": [
+        "Crimson Hue Banner (Only on Switch)"
+      ]
+    },
+    {
       "code": "DROPFL",
       "rewards": [
         "Twitchy Flame charm (Switch exclusive)"
+      ]
+    },
+    {
+      "code": "DROPGV ",
+      "rewards": [
+        "Ryks Stand in Charm (Only on Switch)"
+      ]
+    },
+    {
+      "code": "DROPMC",
+      "rewards": [
+        "Masquerade Chorus Badge"
       ]
     },
     {
@@ -630,6 +660,30 @@
       "code": "DROPML",
       "rewards": [
         "Meg leg cosmetic (Switch exclusive)"
+      ]
+    },
+    {
+      "code": "DROPOP",
+      "rewards": [
+        "Owlbear Plush Charm"
+      ]
+    },
+    {
+      "code": "DROPSC ",
+      "rewards": [
+        "Snapper Casket Charm?(Only on Switch)"
+      ]
+    },
+    {
+      "code": "DROPTS",
+      "rewards": [
+        "Ryks Stand in Charm (Only on Switch)"
+      ]
+    },
+    {
+      "code": "DROPTT",
+      "rewards": [
+        "Totem Badge (Only on Switch)"
       ]
     },
     {
@@ -1267,6 +1321,12 @@
       "rewards": [
         "1,000,000 Bloodpoints",
         "6,000 Iridescent Shards"
+      ]
+    },
+    {
+      "code": "the dark lord",
+      "rewards": [
+        "Wax Candle Badge &amp; Dusty Secrets Banner"
       ]
     },
     {
