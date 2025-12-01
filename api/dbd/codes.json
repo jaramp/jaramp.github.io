@@ -1,10 +1,9 @@
 {
   "active": [
     {
-      "code": "BOULETBROTHERS",
+      "code": "FINDERSCREEPERS",
       "rewards": [
-        "Boulet Brothers Surprise Charm",
-        "Boulet Touch Banner"
+        "?lodie Skull Badge, ?lodie in the Catacombs Banner"
       ]
     }
   ],
@@ -407,6 +406,13 @@
       "code": "BOOP",
       "rewards": [
         "Meg's Boop the Snoot mask"
+      ]
+    },
+    {
+      "code": "BOULETBROTHERS",
+      "rewards": [
+        "Boulet Touch Banner",
+        "Boulet Brothers Surprise Charm"
       ]
     },
     {
