@@ -136,12 +136,6 @@
       ]
     },
     {
-      "code": "NIGHTSHIFT",
-      "rewards": [
-        "Horror Attraction Banner"
-      ]
-    },
-    {
       "code": "REDDIT1MIL",
       "rewards": [
         "8-bit Crow Profile badge"
@@ -1076,6 +1070,12 @@
       "code": "NICE",
       "rewards": [
         "69 Bloodpoints"
+      ]
+    },
+    {
+      "code": "NIGHTSHIFT",
+      "rewards": [
+        "Horror Attraction Banner"
       ]
     },
     {
