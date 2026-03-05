@@ -8,13 +8,6 @@
       ]
     },
     {
-      "code": "HAPPYHORSEYEAR2026",
-      "rewards": [
-        "168,888 Bloodpoints",
-        "Lunar Horse Charm"
-      ]
-    },
-    {
       "code": "JOKERSWILD",
       "rewards": [
         "Unknown Madness Cosmetic"
@@ -765,6 +758,13 @@
       "code": "HAPPYGOLDENWEEK2021",
       "rewards": [
         "30,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "HAPPYHORSEYEAR2026",
+      "rewards": [
+        "168,888 Bloodpoints",
+        "Lunar Horse Charm"
       ]
     },
     {
