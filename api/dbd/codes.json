@@ -1,16 +1,11 @@
 {
   "active": [
     {
-      "code": "FINDERSCREEPERS",
+      "code": "KARMA",
       "rewards": [
-        "Elodie Skull Badge",
-        "Elodie in the Catacombs Banner"
-      ]
-    },
-    {
-      "code": "JOKERSWILD",
-      "rewards": [
-        "Unknown Madness Cosmetic"
+        "Daniel McGovern Portrait Badge",
+        "The Black Sea Banner",
+        "The Silent Corridor Banner"
       ]
     }
   ],
@@ -142,6 +137,13 @@
       ]
     },
     {
+      "code": "FINDERSCREEPERS",
+      "rewards": [
+        "Elodie's Skull Badge",
+        "Elodie in the Catacombs Banner"
+      ]
+    },
+    {
       "code": "IFLOOKSCOULDCHILL",
       "rewards": [
         "Frosty Eyes - Cosmetics (21 items)"
@@ -151,6 +153,12 @@
       "code": "IN THE STORE, CLICK THE \"REDEEM CODE\" BUTTON IN THE TOP",
       "rewards": [
         "right"
+      ]
+    },
+    {
+      "code": "JOKERSWILD",
+      "rewards": [
+        "Unknown Madness Cosmetic"
       ]
     },
     {
