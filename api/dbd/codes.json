@@ -156,12 +156,6 @@
       ]
     },
     {
-      "code": "JOKERSWILD",
-      "rewards": [
-        "Unknown Madness Cosmetic"
-      ]
-    },
-    {
       "code": "LETSROLL",
       "rewards": [
         "Dwight charm"
@@ -941,6 +935,12 @@
       "code": "JAPAN300K",
       "rewards": [
         "300,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "JOKERSWILD",
+      "rewards": [
+        "Unknown Headpiece for The Unknown"
       ]
     },
     {
