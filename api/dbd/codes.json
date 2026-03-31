@@ -1,6 +1,13 @@
 {
   "active": [
     {
+      "code": "COMEBACK",
+      "rewards": [
+        "Tricky Mascot Badge",
+        "Tricky Dance Banner"
+      ]
+    },
+    {
       "code": "KARMA",
       "rewards": [
         "Daniel McGovern Portrait Badge",
