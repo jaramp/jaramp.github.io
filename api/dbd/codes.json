@@ -189,6 +189,36 @@
   ],
   "expired": [
     {
+      "code": "\"THIS CODE COULD NOT BE REDEEMED BECAUSE YOU ALREADY OWN THE ASSOCIATED ITEM.\"",
+      "rewards": [
+        null
+      ]
+    },
+    {
+      "code": "\"THIS CODE COULD NOT BE REDEEMED DUE TO A SERVER ERROR. PLEASE TRY AGAIN LATER.\"",
+      "rewards": [
+        null
+      ]
+    },
+    {
+      "code": "\"THIS CODE HAS ALREADY BEEN CLAIMED.\"",
+      "rewards": [
+        null
+      ]
+    },
+    {
+      "code": "\"THIS CODE HAS EXPIRED.\"",
+      "rewards": [
+        null
+      ]
+    },
+    {
+      "code": "\"THIS CODE IS NOT VALID. PLEASE DOUBLE",
+      "rewards": [
+        "check you have entered it correctly and try again.\""
+      ]
+    },
+    {
       "code": "1MILLIONCROWS",
       "rewards": [
         "Instacrow charm"
