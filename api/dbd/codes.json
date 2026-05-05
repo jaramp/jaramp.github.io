@@ -1,13 +1,6 @@
 {
   "active": [
     {
-      "code": "COMEBACK",
-      "rewards": [
-        "Tricky Mascot Badge",
-        "Tricky Dance Banner"
-      ]
-    },
-    {
       "code": "ENCORE",
       "rewards": [
         "Heart Snatcher Badge"
@@ -20,9 +13,20 @@
         "The Black Sea Banner",
         "The Silent Corridor Banner"
       ]
+    },
+    {
+      "code": "KODOMONOHI2026",
+      "rewards": [
+        "Kashiwa Mochi Badge",
+        "Koinobori Banner"
+      ]
     }
   ],
   "general": [
+    {
+      "code": "",
+      "rewards": []
+    },
     {
       "code": "BDG2S",
       "rewards": [
@@ -461,6 +465,13 @@
         "Frosty Eyes cosmetics - Deathslinger",
         "Frosty Eyes cosmetics - Blight",
         "Frosty Eyes cosmetics - The Twins"
+      ]
+    },
+    {
+      "code": "COMEBACK",
+      "rewards": [
+        "Tricky Mascot Badge",
+        "Tricky Dancer Banner"
       ]
     },
     {
