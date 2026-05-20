@@ -1,6 +1,13 @@
 {
   "active": [
     {
+      "code": "COLOSSAL",
+      "rewards": [
+        "Colossal Titan Charm",
+        "Colossal Titan Banner"
+      ]
+    },
+    {
       "code": "ENCORE",
       "rewards": [
         "Heart Snatcher Badge"
