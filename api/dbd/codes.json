@@ -8,12 +8,6 @@
       ]
     },
     {
-      "code": "DBD10BIRTHDAY",
-      "rewards": [
-        "10m bloodpoints (new!)"
-      ]
-    },
-    {
       "code": "ENCORE",
       "rewards": [
         "Heart Snatcher Badge"
@@ -165,6 +159,10 @@
       "rewards": [
         null
       ]
+    },
+    {
+      "code": "DBD10BIRTHDAY",
+      "rewards": []
     },
     {
       "code": "ENTER THE CODE AS IT APPEARS ABOVE.",
