@@ -180,6 +180,12 @@
       ]
     },
     {
+      "code": "CLICK \"REDEEM",
+      "rewards": [
+        null
+      ]
+    },
+    {
       "code": "CLICK \"REDEEM\".",
       "rewards": [
         null
@@ -188,6 +194,12 @@
     {
       "code": "DBD10BIRTHDAY",
       "rewards": []
+    },
+    {
+      "code": "ENTER THE CODE AS IT APPEARS ABOVE",
+      "rewards": [
+        null
+      ]
     },
     {
       "code": "ENTER THE CODE AS IT APPEARS ABOVE.",
@@ -218,6 +230,12 @@
       "code": "LETSROLL",
       "rewards": [
         "Dwight charm"
+      ]
+    },
+    {
+      "code": "ONCE YOU'RE LOGGED INTO THE GAME, HEAD TO THE STORE",
+      "rewards": [
+        null
       ]
     },
     {
@@ -666,6 +684,12 @@
       ]
     },
     {
+      "code": "DROPGV",
+      "rewards": [
+        "Ryks Stand in Charm (Only on Switch)"
+      ]
+    },
+    {
       "code": "DROPGV ",
       "rewards": [
         "Ryks Stand in Charm (Only on Switch)"
@@ -705,6 +729,12 @@
       "code": "DROPOP",
       "rewards": [
         "Owlbear Plush Charm"
+      ]
+    },
+    {
+      "code": "DROPSC",
+      "rewards": [
+        "Snapper Casket Charm?(Only on Switch)"
       ]
     },
     {
@@ -1472,6 +1502,12 @@
       ]
     },
     {
+      "code": "THE DARK LORD",
+      "rewards": [
+        "Wax Candle Badge &amp; Dusty Secrets Banner"
+      ]
+    },
+    {
       "code": "THEDARKLORD",
       "rewards": [
         "Wax Candle badge",
@@ -1488,6 +1524,36 @@
       "code": "THEGRIMOIRE",
       "rewards": [
         "1 million Bloodpoints"
+      ]
+    },
+    {
+      "code": "THIS CODE COULD NOT BE REDEEMED BECAUSE YOU ALREADY OWN THE ASSOCIATED ITEM",
+      "rewards": [
+        null
+      ]
+    },
+    {
+      "code": "THIS CODE COULD NOT BE REDEEMED DUE TO A SERVER ERROR. PLEASE TRY AGAIN LATER",
+      "rewards": [
+        null
+      ]
+    },
+    {
+      "code": "THIS CODE HAS ALREADY BEEN CLAIMED",
+      "rewards": [
+        null
+      ]
+    },
+    {
+      "code": "THIS CODE HAS EXPIRED",
+      "rewards": [
+        null
+      ]
+    },
+    {
+      "code": "THIS CODE IS NOT VALID. PLEASE DOUBLE",
+      "rewards": [
+        "check you have entered it correctly and try again.\""
       ]
     },
     {
