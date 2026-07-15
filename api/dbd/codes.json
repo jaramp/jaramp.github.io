@@ -27,14 +27,6 @@
       ]
     },
     {
-      "code": "KARMA",
-      "rewards": [
-        "Daniel McGovern Portrait Badge",
-        "The Black Sea Banner",
-        "The Silent Corridor Banner"
-      ]
-    },
-    {
       "code": "KODOMONOHI2026",
       "rewards": [
         "Kashiwa Mochi Badge",
@@ -280,6 +272,12 @@
       "code": "AROMFLAG",
       "rewards": [
         "Aromantic Pride Flag"
+      ]
+    },
+    {
+      "code": "ARRAIAL DBD24",
+      "rewards": [
+        "300,000 Bloodpoints"
       ]
     },
     {
@@ -648,6 +646,12 @@
       ]
     },
     {
+      "code": "DROPMLL",
+      "rewards": [
+        "Meg Thomas Leggings (Only for Nintendo Switch)"
+      ]
+    },
+    {
       "code": "DROPOP",
       "rewards": [
         "Owlbear Plush Charm"
@@ -959,6 +963,12 @@
       "code": "JOKERSWILD",
       "rewards": [
         "Unknown Headpiece for The Unknown"
+      ]
+    },
+    {
+      "code": "KARMA",
+      "rewards": [
+        "Daniel McGovern Portrait Badge, The Black Sea Banner, The Silent Corridor Banner"
       ]
     },
     {
