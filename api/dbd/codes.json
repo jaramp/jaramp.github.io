@@ -7,30 +7,10 @@
       ]
     },
     {
-      "code": "COLOSSAL",
-      "rewards": [
-        "Colossal Titan Charm",
-        "Colossal Titan Banner"
-      ]
-    },
-    {
-      "code": "ENCORE",
-      "rewards": [
-        "Heart Snatcher Badge"
-      ]
-    },
-    {
       "code": "GRASPINGTHEDARKNESS",
       "rewards": [
         "Eyes in the Darkness Badge",
         "Grasping Hallway Banner"
-      ]
-    },
-    {
-      "code": "KODOMONOHI2026",
-      "rewards": [
-        "Kashiwa Mochi Badge",
-        "Koinobori Banner"
       ]
     },
     {
@@ -448,6 +428,13 @@
       ]
     },
     {
+      "code": "COLOSSAL",
+      "rewards": [
+        "Colossal Titan Charm",
+        "Colossal Titan Banner"
+      ]
+    },
+    {
       "code": "COMEBACK",
       "rewards": [
         "Tricky Mascot Badge",
@@ -712,6 +699,12 @@
       ]
     },
     {
+      "code": "ENCORE",
+      "rewards": [
+        "Heart Snatcher Badge"
+      ]
+    },
+    {
       "code": "ENERGY",
       "rewards": [
         "25,000 Bloodpoints"
@@ -968,7 +961,9 @@
     {
       "code": "KARMA",
       "rewards": [
-        "Daniel McGovern Portrait Badge, The Black Sea Banner, The Silent Corridor Banner"
+        "Daniel McGovern Portrait Badge",
+        "The Black Sea Banner",
+        "The Silent Corridor Banner"
       ]
     },
     {
@@ -987,6 +982,13 @@
       "code": "KODOMONOHI2021",
       "rewards": [
         "60,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "KODOMONOHI2026",
+      "rewards": [
+        "Kashiwa Mochi Badge",
+        "Koinobori Banner"
       ]
     },
     {
@@ -1010,7 +1012,9 @@
     {
       "code": "LAFOGATA2025",
       "rewards": [
-        "La Fogata Badge and Banner and 300,000 Bloodpoints"
+        "La Fogata: Alpaca Badge",
+        "La Fogata: Forest Banner",
+        "300,000 Bloodpoints"
       ]
     },
     {
