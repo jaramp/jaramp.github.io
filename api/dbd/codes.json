@@ -28,8 +28,22 @@
   ],
   "general": [
     {
-      "code": "",
-      "rewards": []
+      "code": "AFLAGG",
+      "rewards": [
+        "Agender Pride Flag"
+      ]
+    },
+    {
+      "code": "AFLAGS",
+      "rewards": [
+        "Asexual Pride Flag"
+      ]
+    },
+    {
+      "code": "AROMFLAG",
+      "rewards": [
+        "Aromantic Pride Flag"
+      ]
     },
     {
       "code": "BDG2S",
@@ -146,8 +160,26 @@
       ]
     },
     {
+      "code": "CAWCAW",
+      "rewards": [
+        "Feathers of Pride"
+      ]
+    },
+    {
       "code": "DBD10BIRTHDAY",
       "rewards": []
+    },
+    {
+      "code": "DEMISFLAG",
+      "rewards": [
+        "Demisexual Pride Flag"
+      ]
+    },
+    {
+      "code": "DEMRFLAG",
+      "rewards": [
+        "Demiromantic Flag"
+      ]
     },
     {
       "code": "FINDERSCREEPERS",
@@ -157,9 +189,57 @@
       ]
     },
     {
+      "code": "FLAGB",
+      "rewards": [
+        "Bisexual Pride Flag"
+      ]
+    },
+    {
+      "code": "FLAGL",
+      "rewards": [
+        "Lesbian Pride Flag"
+      ]
+    },
+    {
+      "code": "FLAGP",
+      "rewards": [
+        "Pansexual Pride Flag"
+      ]
+    },
+    {
+      "code": "FLAGT",
+      "rewards": [
+        "Trans Pride Flag"
+      ]
+    },
+    {
+      "code": "GFLAGF",
+      "rewards": [
+        "Genderfluid Pride Flag"
+      ]
+    },
+    {
+      "code": "GFLAGQ",
+      "rewards": [
+        "Genderqueer Pride Flag"
+      ]
+    },
+    {
       "code": "IFLOOKSCOULDCHILL",
       "rewards": [
         "Frosty Eyes - Cosmetics (21 items)"
+      ]
+    },
+    {
+      "code": "ISFLAG",
+      "rewards": [
+        "Intersex Pride Flag"
+      ]
+    },
+    {
+      "code": "KINDRD",
+      "rewards": [
+        "Glance Of Pride"
       ]
     },
     {
@@ -169,9 +249,51 @@
       ]
     },
     {
+      "code": "MFLAG",
+      "rewards": [
+        "MLM Pride Flag"
+      ]
+    },
+    {
+      "code": "NBFLAG",
+      "rewards": [
+        "Nonbinary Pride Flag"
+      ]
+    },
+    {
+      "code": "POLSFLAG",
+      "rewards": [
+        "Polysexual Flag"
+      ]
+    },
+    {
+      "code": "POLYFLAG",
+      "rewards": [
+        "Polyamory Pride Flag"
+      ]
+    },
+    {
+      "code": "PRIDE",
+      "rewards": [
+        "Rainbow Pride Flag"
+      ]
+    },
+    {
+      "code": "PRIDE2022",
+      "rewards": [
+        "Progress Pride Flag"
+      ]
+    },
+    {
       "code": "REDDIT1MIL",
       "rewards": [
         "8-bit Crow Profile badge"
+      ]
+    },
+    {
+      "code": "TWOSFLAG",
+      "rewards": [
+        "Two-Spirit Pride Flag"
       ]
     },
     {
@@ -182,6 +304,18 @@
     }
   ],
   "expired": [
+    {
+      "code": "100kSLAY",
+      "rewards": [
+        "100k Bloodpoints"
+      ]
+    },
+    {
+      "code": "100KSLAY",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
     {
       "code": "1MILLIONCROWS",
       "rewards": [
@@ -198,30 +332,6 @@
       "code": "78SNOXXG",
       "rewards": [
         "100,000 Bloodpoints"
-      ]
-    },
-    {
-      "code": "100KSLAY",
-      "rewards": [
-        "100,000 Bloodpoints"
-      ]
-    },
-    {
-      "code": "100kSLAY",
-      "rewards": [
-        "100k Bloodpoints"
-      ]
-    },
-    {
-      "code": "AFLAGG",
-      "rewards": [
-        "Agender Pride Flag"
-      ]
-    },
-    {
-      "code": "AFLAGS",
-      "rewards": [
-        "Asexual Pride Flag"
       ]
     },
     {
@@ -246,12 +356,6 @@
       "code": "ANNIVERSARYFRAGMENTS",
       "rewards": [
         "10 Rift Fragments"
-      ]
-    },
-    {
-      "code": "AROMFLAG",
-      "rewards": [
-        "Aromantic Pride Flag"
       ]
     },
     {
@@ -390,12 +494,6 @@
       ]
     },
     {
-      "code": "CAWCAW",
-      "rewards": [
-        "Feathers of Pride"
-      ]
-    },
-    {
       "code": "CELEBRANDO",
       "rewards": [
         "50,000 Bloodpoints"
@@ -460,13 +558,6 @@
       ]
     },
     {
-      "code": "DBDDAY39",
-      "rewards": [
-        "500,000 Bloodpoints",
-        "500 Iridescent Shards"
-      ]
-    },
-    {
       "code": "DBDDAY2022",
       "rewards": [
         "Silk Omamori charm"
@@ -476,6 +567,13 @@
       "code": "DBDDAY2024",
       "rewards": [
         "300,000 Bloodpoints",
+        "500 Iridescent Shards"
+      ]
+    },
+    {
+      "code": "DBDDAY39",
+      "rewards": [
+        "500,000 Bloodpoints",
         "500 Iridescent Shards"
       ]
     },
@@ -520,18 +618,6 @@
       "code": "DECIPHERSTRIKE",
       "rewards": [
         "150,000 Bloodpoints"
-      ]
-    },
-    {
-      "code": "DEMISFLAG",
-      "rewards": [
-        "Demisexual Pride Flag"
-      ]
-    },
-    {
-      "code": "DEMRFLAG",
-      "rewards": [
-        "Demiromantic Flag"
       ]
     },
     {
@@ -723,30 +809,6 @@
       ]
     },
     {
-      "code": "FLAGB",
-      "rewards": [
-        "Bisexual Pride Flag"
-      ]
-    },
-    {
-      "code": "FLAGL",
-      "rewards": [
-        "Lesbian Pride Flag"
-      ]
-    },
-    {
-      "code": "FLAGP",
-      "rewards": [
-        "Pansexual Pride Flag"
-      ]
-    },
-    {
-      "code": "FLAGT",
-      "rewards": [
-        "Trans Pride Flag"
-      ]
-    },
-    {
       "code": "FORHONOR",
       "rewards": [
         "For Honor charm"
@@ -780,18 +842,6 @@
       "code": "GETTHREADY",
       "rewards": [
         "Voxel Spirit charm"
-      ]
-    },
-    {
-      "code": "GFLAGF",
-      "rewards": [
-        "Genderfluid Pride Flag"
-      ]
-    },
-    {
-      "code": "GFLAGQ",
-      "rewards": [
-        "Genderqueer Pride Flag"
       ]
     },
     {
@@ -941,12 +991,6 @@
       ]
     },
     {
-      "code": "ISFLAG",
-      "rewards": [
-        "Intersex Pride Flag"
-      ]
-    },
-    {
       "code": "JAPAN300K",
       "rewards": [
         "300,000 Bloodpoints"
@@ -970,12 +1014,6 @@
       "code": "KENPOUKINENBI2021",
       "rewards": [
         "40,000 Bloodpoints"
-      ]
-    },
-    {
-      "code": "KINDRD",
-      "rewards": [
-        "Glance Of Pride"
       ]
     },
     {
@@ -1144,12 +1182,6 @@
       ]
     },
     {
-      "code": "MFLAG",
-      "rewards": [
-        "MLM Pride Flag"
-      ]
-    },
-    {
       "code": "MIDORINOHI2021",
       "rewards": [
         "50,000 Bloodpoints"
@@ -1165,12 +1197,6 @@
       "code": "MORICHRISTMAS",
       "rewards": [
         "100,000 Bloodpoints"
-      ]
-    },
-    {
-      "code": "NBFLAG",
-      "rewards": [
-        "Nonbinary Pride Flag"
       ]
     },
     {
@@ -1258,30 +1284,6 @@
       "rewards": [
         "Naughty Bear Pinata",
         "Five Year Candles charms"
-      ]
-    },
-    {
-      "code": "POLSFLAG",
-      "rewards": [
-        "Polysexual Flag"
-      ]
-    },
-    {
-      "code": "POLYFLAG",
-      "rewards": [
-        "Polyamory Pride Flag"
-      ]
-    },
-    {
-      "code": "PRIDE",
-      "rewards": [
-        "Rainbow Pride Flag"
-      ]
-    },
-    {
-      "code": "PRIDE2022",
-      "rewards": [
-        "Progress Pride Flag"
       ]
     },
     {
@@ -1509,12 +1511,6 @@
       "code": "TWOSDAY",
       "rewards": [
         "222,000 Bloodpoints"
-      ]
-    },
-    {
-      "code": "TWOSFLAG",
-      "rewards": [
-        "Two-Spirit Pride Flag"
       ]
     },
     {
