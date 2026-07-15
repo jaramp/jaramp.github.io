@@ -305,12 +305,6 @@
   ],
   "expired": [
     {
-      "code": "100kSLAY",
-      "rewards": [
-        "100k Bloodpoints"
-      ]
-    },
-    {
       "code": "100KSLAY",
       "rewards": [
         "100,000 Bloodpoints"
@@ -360,12 +354,6 @@
     },
     {
       "code": "ARRAIAL DBD24",
-      "rewards": [
-        "300,000 Bloodpoints"
-      ]
-    },
-    {
-      "code": "ARRAIALDBD24",
       "rewards": [
         "300,000 Bloodpoints"
       ]
@@ -476,12 +464,6 @@
       "rewards": [
         "240,000 Bloodpoints",
         "24 Iridescent Shards"
-      ]
-    },
-    {
-      "code": "CARNANEVOA24 ",
-      "rewards": [
-        "240k Bloodpoints, 24 Rift Fragments"
       ]
     },
     {
@@ -683,12 +665,6 @@
       ]
     },
     {
-      "code": "DROPGV ",
-      "rewards": [
-        "Ryks Stand in Charm (Only on Switch)"
-      ]
-    },
-    {
       "code": "DROPMC",
       "rewards": [
         "Masquerade Chorus Badge"
@@ -734,12 +710,6 @@
       "code": "DROPSC",
       "rewards": [
         "Snapper Casket Charm?(Only on Switch)"
-      ]
-    },
-    {
-      "code": "DROPSC ",
-      "rewards": [
-        "Snapper Casket Charm (Only on Switch)"
       ]
     },
     {
@@ -1065,12 +1035,6 @@
       "code": "LARACROFTINTHEFOG",
       "rewards": [
         "100,000 Bloodpoints"
-      ]
-    },
-    {
-      "code": "LARAINTHEFOG",
-      "rewards": [
-        "100,00 Bloodpoints"
       ]
     },
     {
