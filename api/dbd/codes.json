@@ -7,6 +7,12 @@
       ]
     },
     {
+      "code": "CROWCAW",
+      "rewards": [
+        "CrowTok Banner"
+      ]
+    },
+    {
       "code": "GRASPINGTHEDARKNESS",
       "rewards": [
         "Eyes in the Darkness Badge",
@@ -17,12 +23,6 @@
       "code": "LIFEOFTHEPARTY",
       "rewards": [
         "Party Dwight Figurine Charm"
-      ]
-    },
-    {
-      "code": "THESLASHER",
-      "rewards": [
-        "Slasher Figurine Charm"
       ]
     }
   ],
@@ -166,10 +166,6 @@
       ]
     },
     {
-      "code": "DBD10BIRTHDAY",
-      "rewards": []
-    },
-    {
       "code": "DEMISFLAG",
       "rewards": [
         "Demisexual Pride Flag"
@@ -305,12 +301,6 @@
   ],
   "expired": [
     {
-      "code": "100KSLAY",
-      "rewards": [
-        "100,000 Bloodpoints"
-      ]
-    },
-    {
       "code": "1MILLIONCROWS",
       "rewards": [
         "Instacrow charm"
@@ -324,6 +314,12 @@
     },
     {
       "code": "78SNOXXG",
+      "rewards": [
+        "100,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "100KSLAY",
       "rewards": [
         "100,000 Bloodpoints"
       ]
@@ -534,9 +530,22 @@
       ]
     },
     {
+      "code": "DBD10BIRTHDAY",
+      "rewards": [
+        "10,000,000 Bloodpoints"
+      ]
+    },
+    {
       "code": "DBDBLUESKYJP",
       "rewards": [
         "250,000 Bloodpoints"
+      ]
+    },
+    {
+      "code": "DBDDAY39",
+      "rewards": [
+        "500,000 Bloodpoints",
+        "500 Iridescent Shards"
       ]
     },
     {
@@ -549,13 +558,6 @@
       "code": "DBDDAY2024",
       "rewards": [
         "300,000 Bloodpoints",
-        "500 Iridescent Shards"
-      ]
-    },
-    {
-      "code": "DBDDAY39",
-      "rewards": [
-        "500,000 Bloodpoints",
         "500 Iridescent Shards"
       ]
     },
@@ -1421,6 +1423,12 @@
       "code": "THEGRIMOIRE",
       "rewards": [
         "1 million Bloodpoints"
+      ]
+    },
+    {
+      "code": "THESLASHER",
+      "rewards": [
+        "Slasher Figurine Charm"
       ]
     },
     {
