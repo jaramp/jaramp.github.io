@@ -13,6 +13,12 @@
       ]
     },
     {
+      "code": "MAURICEPRIDE",
+      "rewards": [
+        "Proud Maurice Badge"
+      ]
+    },
+    {
       "code": "RAINBOWBRIGHT",
       "rewards": [
         "Pride Flashlight Charm"
@@ -28,6 +34,12 @@
       "code": "SHINEBRIGHT",
       "rewards": [
         "Proud Rainbow Crow Banner"
+      ]
+    },
+    {
+      "code": "WORLDPRIDE2026",
+      "rewards": [
+        "300,000 Bloodpoints"
       ]
     }
   ],
