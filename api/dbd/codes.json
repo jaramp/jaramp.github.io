@@ -177,12 +177,6 @@
       ]
     },
     {
-      "code": "BIKERIDE",
-      "rewards": [
-        "Shane Wiigwaas Figurine Charm"
-      ]
-    },
-    {
       "code": "CAWCAW",
       "rewards": [
         "Feathers of Pride"
@@ -414,6 +408,12 @@
       "rewards": [
         "Anniversary cosmetics for David",
         "Anniversary cosmetics for The Wraith"
+      ]
+    },
+    {
+      "code": "BIKERIDE",
+      "rewards": [
+        "Shane Wiigawaas figurine charm"
       ]
     },
     {
