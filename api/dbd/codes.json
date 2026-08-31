@@ -1,6 +1,15 @@
 {
   "active": [
     {
+      "code": "MISSBEHAVIOURGC2026",
+      "rewards": [
+        "Pixel MiNA Banner",
+        "Pixel Trickster Banner",
+        "Pixel Sable Banner",
+        "Pixel Dwight Banner"
+      ]
+    },
+    {
       "code": "SHINEBRIGHT",
       "rewards": [
         "Proud Rainbow Crow Banner"
