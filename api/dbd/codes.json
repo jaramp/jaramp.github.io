@@ -1,6 +1,12 @@
 {
   "active": [
     {
+      "code": "MACHETE",
+      "rewards": [
+        "Slasher's Machete Charm"
+      ]
+    },
+    {
       "code": "ROADTRIP",
       "rewards": [
         "Dark Bomber Cosmetic",
