@@ -215,13 +215,6 @@
       ]
     },
     {
-      "code": "GRASPINGTHEDARKNESS",
-      "rewards": [
-        "Eyes in the Darkness Badge",
-        "Grasping Hallway Banner"
-      ]
-    },
-    {
       "code": "IFLOOKSCOULDCHILL",
       "rewards": [
         "Frosty Eyes - Cosmetics (21 items)"
@@ -864,6 +857,12 @@
       "code": "GOLDENDRAGON",
       "rewards": [
         "Golden Dragon charm"
+      ]
+    },
+    {
+      "code": "GRASPINGTHEDARKNESS",
+      "rewards": [
+        "Eyes in the Darkness Banner, Grasping Hallway Banner"
       ]
     },
     {
