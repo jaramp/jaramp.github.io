@@ -1,6 +1,12 @@
 {
   "active": [
     {
+      "code": "GROUNDCHUCKHBD",
+      "rewards": [
+        "Ground Chuck charm (new!)"
+      ]
+    },
+    {
       "code": "MACHETE",
       "rewards": [
         "Slasher's Machete Charm"
