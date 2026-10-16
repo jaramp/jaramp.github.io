@@ -18,12 +18,6 @@
         "Dark Bomber Cosmetic",
         "For Shane Wiigwaas"
       ]
-    },
-    {
-      "code": "STARSGUIDE",
-      "rewards": [
-        "Stardotter banner (new!)"
-      ]
     }
   ],
   "general": [
@@ -1435,6 +1429,12 @@
       "rewards": [
         "500,000 Bloodpoints",
         "30 Rift Fragments"
+      ]
+    },
+    {
+      "code": "STARSGUIDE",
+      "rewards": [
+        "Stardotter Banner"
       ]
     },
     {
