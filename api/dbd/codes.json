@@ -1,6 +1,12 @@
 {
   "active": [
     {
+      "code": "BPFFM2026",
+      "rewards": [
+        "4x Blood Party Friday Survivor T-shirts"
+      ]
+    },
+    {
       "code": "GROUNDCHUCKHBD",
       "rewards": [
         "Ground Chuck charm (new!)"
@@ -236,12 +242,6 @@
       "code": "LETSROLL",
       "rewards": [
         "Dwight Miniature Charm"
-      ]
-    },
-    {
-      "code": "LIFEOFTHEPARTY",
-      "rewards": [
-        "Party Dwight Figurine Charm"
       ]
     },
     {
@@ -1073,6 +1073,12 @@
       "code": "LEGENDIRI",
       "rewards": [
         "100 Iridescent Shards"
+      ]
+    },
+    {
+      "code": "LIFEOFTHEPARTY",
+      "rewards": [
+        "Party Dwight figurine"
       ]
     },
     {
