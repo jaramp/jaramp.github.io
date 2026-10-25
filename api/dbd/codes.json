@@ -7,6 +7,13 @@
       ]
     },
     {
+      "code": "DIABLO",
+      "rewards": [
+        "Tristram Ruins Banner",
+        "Horadric Cube Badge"
+      ]
+    },
+    {
       "code": "GROUNDCHUCKHBD",
       "rewards": [
         "Ground Chuck charm (new!)"
@@ -862,7 +869,8 @@
     {
       "code": "GRASPINGTHEDARKNESS",
       "rewards": [
-        "Eyes in the Darkness Banner, Grasping Hallway Banner"
+        "Eyes in the Darkness Badge",
+        "Grasping Hallway Banner"
       ]
     },
     {
