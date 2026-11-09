@@ -7,6 +7,24 @@
       ]
     },
     {
+      "code": "DBDDY",
+      "rewards": [
+        "200k Bloodpoints"
+      ]
+    },
+    {
+      "code": "DBDXHH",
+      "rewards": [
+        "200k Bloodpoints"
+      ]
+    },
+    {
+      "code": "DBDXHS",
+      "rewards": [
+        "200k Bloodpoints"
+      ]
+    },
+    {
       "code": "DIABLO",
       "rewards": [
         "Tristram Ruins Banner",
@@ -14,15 +32,9 @@
       ]
     },
     {
-      "code": "GROUNDCHUCKHBD",
+      "code": "NOTTODAY",
       "rewards": [
-        "Ground Chuck charm (new!)"
-      ]
-    },
-    {
-      "code": "MACHETE",
-      "rewards": [
-        "Slasher's Machete Charm"
+        "Spiked Bat Charm"
       ]
     },
     {
@@ -874,6 +886,12 @@
       ]
     },
     {
+      "code": "GROUNDCHUCKHBD",
+      "rewards": [
+        "Ground Chuck Charm"
+      ]
+    },
+    {
       "code": "HALLOWHOOPS",
       "rewards": [
         "1,031 Bloodpoints"
@@ -1162,6 +1180,12 @@
         "Lunar New Year cosmetics for David",
         "Lunar New Year cosmetics for Nea",
         "Lunar New Year cosmetics for The Trapper"
+      ]
+    },
+    {
+      "code": "MACHETE",
+      "rewards": [
+        "Slasher's Machete Charm"
       ]
     },
     {
