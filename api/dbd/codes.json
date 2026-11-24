@@ -1,12 +1,6 @@
 {
   "active": [
     {
-      "code": "BPFFM2026",
-      "rewards": [
-        "4x Blood Party Friday Survivor T-shirts"
-      ]
-    },
-    {
       "code": "DBDDY",
       "rewards": [
         "200k Bloodpoints"
@@ -460,6 +454,12 @@
         "Blood Party Friday T-shirts 4 Items",
         "For Claudette Morel, Nea Karlsson,",
         "Ace Visconti, and Adam Francis"
+      ]
+    },
+    {
+      "code": "BPFFM2026",
+      "rewards": [
+        "4x Blood Party Friday Survivor T-shirts"
       ]
     },
     {
